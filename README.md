@@ -29,13 +29,13 @@ And numerous guides for installation can be found online
 
 First download the 2 files (gpprac and gpref) onto your local machine and save them into the `input` folder in this directory. They must be called gpprac and gpref without any file extensions.
 
-Then from the root directory of this repository run the python script
+Then from the root directory of this repository run the python script in a terminal with this command
 
 `python3 index.py`
 
 ## Output
 
-Running the script should output 2 files relative to the 2 input files, `gpprac.csv` and `gpref.csv`.
+Running the script should output 2 files into the output folder, relative to the 2 input files - `gpprac.csv` and `gpref.csv`.
 
 These should include the following columns
 

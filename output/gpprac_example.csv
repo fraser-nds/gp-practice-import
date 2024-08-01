@@ -1,0 +1,12 @@
+code,address1,address2,address3,address4,postcode,is_active,telephone
+80010,Central Avenue Surgery             ,The Health Centre                  ,6 Central Avenue                   ,Ardrossan                          ,KA22 7DX,True,01294463838
+80024,AUCHINLECK HEALTH CENTRE           ,MAIN STREET                        ,AUCHINLECK                         ,                                   ,KA18 2AS,False,01290421903
+80039,AUCHINLECK HEALTH CENTRE           ,MAIN STREET                        ,AUCHINLECK                         ,                                   ,KA18 2AS,False,01290424713
+80043,Cornhill Surgery                   ,Kincaidston                        ,Ayr                                ,                                   ,KA7 3YF ,False,01292264080
+80058,Tam's Brig Surgery                 ,107 New Road                       ,Ayr                                ,Ayrshire                           ,KA8 8DD ,True,01292262697
+80062,The Surgery                        ,9 Alloway Place                    ,Ayr                                ,Ayrshire                           ,KA7 2AQ ,True,01292611835
+80077,Dalblair Medical Practice          ,56 Dalblair Road                   ,Ayr                                ,Ayrshire                           ,KA7 1UQ ,True,01292267432
+80081,Barns Medical Practice             ,40 Dalblair Road                   ,Ayr                                ,Ayrshire                           ,KA7 1UL ,True,01292281439
+80096,Racecourse Road Medical Group      ,3 Racecourse Road                  ,Ayr                                ,Ayrshire                           ,KA7 2DF ,True,01292886622
+80109,Cathcart Street Medical Practice   ,8 Cathcart Street                  ,AYR                                ,AYRSHIRE                           ,KA7 1BJ ,True,01292264051
+80113,The Fullarton Medical Practice     ,40 Dalblair Road                   ,AYR                                ,AYRSHIRE                           ,KA7 1UL ,True,01292264260
